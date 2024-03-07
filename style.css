@@ -1,0 +1,18 @@
+body {
+    background: #bb78aa;
+  }
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+em strong {
+    color: rgb(255, 199, 14)
+}
+
