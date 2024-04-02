@@ -3,16 +3,19 @@ body {
   }
 
 #ty {
-    
+    width: 30%;
+    border: 10px solid #000;  
+    margin-inline-end: 40px;
 }
 
 h1 {
-    text-align: center
+    text-align: center;
+    font-size: 80px
 }
 
 p {
     text-align: center;
-    font-size: 20px;
+    font-size: 43px;
 }
 
 #missao {
