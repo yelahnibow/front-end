@@ -38,3 +38,12 @@ em strong {
     background: #c786b7;
 }
 
+h2 {
+    text-align: center;
+    font-size: 43px
+}
+
+ul {
+    text-align: center;
+    font-size: 35px
+}
