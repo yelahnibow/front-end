@@ -3,26 +3,65 @@ body {
   }
 
 #ty {
-    width: 30%;
+    width: 43%;
     border: 10px solid #000;  
-    margin-inline-end: 40px;
+    margin-inline-end: 100px;
+}
+
+.principal {
+    background: #c786b7;
+    padding: 2%;
+    border-top: 15px solid #bb78aa;
+    border-bottom: 15px solid #bb78aa;
 }
 
 h1 {
     text-align: center;
-    font-size: 80px
+    font-size: 70px
 }
 
 p {
     text-align: center;
-    font-size: 43px;
+    font-size: 40px;
 }
 
 #missao {
     font-size: 20px;
+   
 }
 
 em strong {
     color: rgb(255, 199, 14)
 }
 
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #c786b7;
+    padding: 3%;
+    border-top: 15px solid #bb78aa;
+    border-bottom: 15px solid #bb78aa;
+}
+
+h2 {
+    text-align: center;
+    font-size: 43px
+}
+
+ul {
+    text-align: left;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+    margin-left: 3%;
+    margin-bottom: 6%;
+
+}
+
+.imgborges {
+    width: 20%;
+    height: 350px;
+}
